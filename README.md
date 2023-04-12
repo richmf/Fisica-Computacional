@@ -1,4 +1,4 @@
-Curso de Física Computacional
+# Curso de Física Computacional
 
 Licenciaturas: Física y Física Biomédica
 
